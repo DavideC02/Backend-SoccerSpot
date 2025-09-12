@@ -1,4 +1,4 @@
-⚽ Backend SoccerSpot
+# ⚽ Backend SoccerSpot
 
 API REST realizzata con Node.js, Express e MongoDB/Mongoose.
 Gestisce autenticazione utenti, creazione e gestione campi sportivi e sistema di prenotazioni.
