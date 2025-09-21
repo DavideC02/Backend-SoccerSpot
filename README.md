@@ -76,3 +76,5 @@ Le password vengono salvate in forma hashata con bcrypt.
 Il sistema utilizza due token JWT: accesso e refresh.
 Il backend gestisce il controllo di sovrapposizione delle prenotazioni e impedisce di occupare slot già presi.
 Una prenotazione cancellata non blocca più la fascia oraria, che torna prenotabile.
+
+Realizzato Maggio 2025
